@@ -1,2 +1,3 @@
 # hello-world
-testowanie
+testowanie 2
+to są testowe zmiany
